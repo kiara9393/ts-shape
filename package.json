@@ -1,0 +1,15 @@
+{
+  "name": "ts-shape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "angular-ts-math": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chiara Amato <chiara.amato9393@gmail.com>",
+  "license": "MIT"
+}
